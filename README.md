@@ -1,6 +1,7 @@
 # Biomolecular-Antiwindup-Circuits
 
 #### Generate Manuscript and Supplementary Information Figures ####
+# Preprint: https://www.biorxiv.org/content/10.1101/2023.10.06.561168v2
 
 # Software Requirements
  - MATLAB R2016a (academic use) or above (Tested on R2023b)
